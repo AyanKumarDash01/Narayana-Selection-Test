@@ -30,4 +30,3 @@ Before running the tests, make sure you have the following installed:
 - **WebDriverManager** — automatic browser driver setup
 
 ---ructure
-
